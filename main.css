@@ -1,0 +1,31 @@
+/* Lv.4 */
+rect.day[fill="#1e6823"] {
+    fill: #03001C!important;
+}
+.legend li[style="background-color: #1e6823"] {
+    background-color: #03001C!important;
+}
+
+/* Lv.3 */
+rect.day[fill="#44a340"] {
+    fill: #FE9600!important;
+}
+.legend li[style="background-color: #44a340"] {
+    background-color: #FE9600!important;
+}
+
+/* Lv.2 */
+rect.day[fill="#8cc665"] {
+    fill: #FFC501!important;
+}
+.legend li[style="background-color: #8cc665"] {
+    background-color: #FFC501!important;
+}
+
+/* Lv.1 */
+rect.day[fill="#d6e685"] {
+    fill: #FFEE4A!important;
+}
+.legend li[style="background-color: #d6e685"] {
+    background-color: #FFEE4A!important;
+}
